@@ -1,16 +1,17 @@
-LEMOINE IVANOFF KHENNOUF LIEBIG
+# LEMOINE IVANOFF KHENNOUF LIEBIG
 je 
 rajoute
 du contenu 
 sur mon repo 
 depuis  local
-# TD1_PGL
-# TD1_PGL
+
+
 on 
 écrit 
 du 
 contenu 
-zeubi
+oopsi
+L'arithmétique c'est comme l'amour, ça commence par des BEZOUTS puis ça s'envoie EULER et finit par des GAUSS x')
 
 
 
