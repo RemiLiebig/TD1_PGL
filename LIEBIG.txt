@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Je voulais rajouter du contenu pour voir ce que ça fait lol
+bonjiourno BRazzill
+=======
+Je me suis trompé, cette fois c'est le bon sur la bonne branche
+>>>>>>> LIEBIG
+
